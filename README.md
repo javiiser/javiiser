@@ -1,4 +1,4 @@
-![portada](portada.png)
+<img src="portada.png" alt="Texto alternativo" width="1200">
 <p align="center">
   <a href="https://github.com/MikaboshiDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fefc00ff&center=falso&vCenter=falso&repeat=cierto&width=435&lines=desarrollador+frontend+con+ganas+de;+saber+muchas+cosas;+estudio+ciberseguridad+redteam;++++BIENVENIDOS" alt="Typing SVG"/>
