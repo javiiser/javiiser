@@ -1,4 +1,4 @@
-<img src="portada.png" alt="Texto alternativo" width="950" height="450" >
+<img src="portada.png" alt="Texto alternativo" width="800" height="400" >
 
 <p align="center">
   <a href="https://github.com/MikaboshiDev">
