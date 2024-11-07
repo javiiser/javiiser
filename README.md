@@ -8,6 +8,13 @@
 
 ---
 
+💻 Self-taught enthusiast with a focus on cybersecurity concepts and hands-on hacking skills.  
+📚 Learning the essentials of cybersecurity, with a strong interest in hacking, web development, and exploring new tech trends.  
+🔧 Main tools: Python and Linux  
+🌟 Currently working on developing an online store.  
+🎨 Outside of tech, I enjoy listening to Mon Laferte, drawing, and playing table tennis. I'm always eager to explore and learn new things!
+---
+
 ## Javware
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=black&)
