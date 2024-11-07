@@ -5,16 +5,29 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fefc00ff&center=falso&vCenter=falso&repeat=cierto&width=435&lines=desarrollador+frontend+con+ganas+de;+saber+muchas+cosas;+estudio+ciberseguridad+redteam;++++BIENVENIDOS" alt="Typing SVG"/>
   </a>
 </p>
+<h1 align="center">
+Hi, I'm Javi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/>
 
----
-HI! I`am Javi
-- 💻 Self-taught enthusiast with a focus on cybersecurity concepts and hands-on hacking skills.
-- 📚 Learning the essentials of cybersecurity, with a strong interest in hacking, web development, and exploring new tech trends.
-- 🔧 Main tools: Python and Linux
-- 🌟 Currently working on developing an online store.
-- 🎨 Outside of tech, I enjoy listening to Mon Laferte, drawing, and playing table tennis. I'm always eager to explore and learn new things!
----
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 
+```
+HI! I`am Javi@github
+----------------
+
+💻 Self-taught enthusiast with a focus on cybersecurity concepts and hands-on
+    hacking skills.
+📚 Learning the essentials of cybersecurity, with a strong interest in hacking,
+    web development, and exploring new tech trends.
+🔧 Main tools: Python and Linux
+🌟 Currently working on developing an online store.
+🎨 Outside of tech, I enjoy listening to Mon Laferte, drawing, and playing
+    table tennis. I'm always eager to explore and learn new things!
+```
 ## Javware
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=black&)
