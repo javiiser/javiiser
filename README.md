@@ -29,7 +29,7 @@ Hi! I`am Javi@github
 <!-- Contenedor principal con Tailwind CSS -->
 <div class="bg-gray-900 p-8 rounded-lg text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-  <!-- Sección Javware -->
+  <!-- Sección Javware s-->
   <div class="bg-gray-800 p-6 rounded-xl shadow-lg">
     <h3 class="text-yellow-400 text-2xl font-semibold mb-4">Javware</h3>
     <p class="mb-4">Stay connected and reach out to me through the platforms below. I'm always open to collaboration!</p>
